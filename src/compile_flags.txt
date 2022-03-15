@@ -1,0 +1,3 @@
+-IC:\Users\alen_\OneDrive - Chalmers University of Technology\Realtidsystem\Tinytimber\part-1-step-1
+-IC:\Users\alen_\OneDrive
+-DSTM32F40_41xxx
